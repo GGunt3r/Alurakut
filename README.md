@@ -16,7 +16,7 @@ Por ser uma aplicação fron-end, foi utilizado Github para o preenchimento de d
 Execute os comandos em seu terminal: 
 ```bash
 # Clone o repositório
-$ git https://github.com/alura-challenges/alurakut.git
+$ git https://github.com/GGunt3r/Alurakut.git
 
 # Entre na pasta do repositório
 $ cd alurakut

@@ -74,10 +74,9 @@ export default function Home() {
   console.log('Seguidores antes do return', seguidores);
 
 
-
   return (
     <>
-    <AlurakutMenu />
+    <AlurakutMenu githubUser={githubUser}/>
     <MainGrid>
       <div className="profileArea" style={{ gridArea: 'profileArea'}}>
         <ProfileSidebar githubUser={githubUser}/>

@@ -40,6 +40,6 @@ Acesse [localhost](http://localhost:3000) em seu navegador utilizando a porta 30
 
 ## 🔨 Desáfios pendentes
 - [ ] Criar um componente para cada usuário e comunidade
-- [ ] Corrigir a renderização do avatar no menu
+- [x] Corrigir a renderização do avatar no menu
 
 

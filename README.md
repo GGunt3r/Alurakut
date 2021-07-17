@@ -13,7 +13,7 @@ Você pode conferir mais informações no [repositório da Alura](https://github
 [Figma](https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0)
 
 ### Demonstração
-- [AluraKut na Vercel](https://alurakut-five-gamma.vercel.app/)
+- [Alurakut na Vercel](https://alurakut-five-gamma.vercel.app/)
 
 ## 🪐 Como rodar?
 Execute os comandos em seu terminal: 

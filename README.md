@@ -3,6 +3,9 @@
 Projeto construído durante a **3° edição React da Alura**. Esse projeto foi baseado na layout do Orkut, consumindo API do Github.
 Você pode conferir mais informações no [repositório da Alura](https://github.com/alura-challenges/alurakut/).
 
+<p align="center">
+   <img src="https://i.imgur.com/yp44zXp.jpg" alt="Home page Letmeask"/>
+</p>
 
 ## 🛠 Tecnológias utilizadas
 - [NextJS](https://nextjs.org/)

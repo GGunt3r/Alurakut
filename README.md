@@ -39,10 +39,3 @@ $ yarn dev
 ```
 
 Acesse [localhost](http://localhost:3000) em seu navegador utilizando a porta 3000
-
-
-## 🔨 Desáfios pendentes
-- [ ] Criar um componente para cada usuário e comunidade
-- [x] Corrigir a renderização do avatar no menu
-
-
